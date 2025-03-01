@@ -1,26 +1,4 @@
-<p align="center">
-    <img src="https://howtolearnmachinelearning.com/wp-content/uploads/2021/04/coursera_machine_learning_ibm.png?raw=true" alt="IBM and Coursera Logos" width="926" height="133"/>
-</p>
-
-# Data Visualization with Python
-
-This is the final project for Course 8, _Python Project for Data Visualization_. Part of IBM's Data Analyst Professional Certificate from Coursera. Available here: https://www.coursera.org/programs/jda20232t1-z1hse/professional-certificates/ibm-data-analyst?collectionId=Wxyxq
-
-### Analyzing the wildfire activities in Australia
-
-For part one of this project, we are to create data visualizations. The objective of this part is to analyze and visualize the wildfire activities in Australia using the provided dataset. We will explore patterns and trends, and create visualizations to gain insights into the behavior of wildfires in different regions of Australia.
-
-#### Dashboard to display charts based on selected Region and Year
-
-For the second part, we are creating and customizing dashboards. The objective of this part is to create dashboards to contain our plots and charts. We will create a dashboard wherein the user can select the **Region** and the **Year**. Based on the selection, the dashboard will display the following two charts:
-
-1. Pie Chart on Monthly Average Estimated Fire Area
-2. Bar Chart on Monthly Average Count of Pixels for Presumed Vegetation Fires
-
-### Analyzing the Impact of Recession on Automobile Sales
-
-For the final part, we are assuming the role of a data scientist at XYZAutomotives. Our first task is to analyze the historical data and give the company directors insights on how the sales were affected during times of recession. We will provide a number of charts/plots to visualize the data and make it easy for the directors to understand our analysis. By examining various factors mentioned from the dataset, we aim to gain insights into how recessions impact automobile sales for the company. We will split this part up into two sections, Task 1 and Task 2. The objective of Task 1 is to analyze the historical trends in automobile sales during recession periods. The goal is to provide insights into how the sales of XYZAutomotives, a company specializing in automotive sales, were affected during times of recession. The objective of Task 2 is to create dashboards to contain our plots and charts and to provide the directors with the ability to select a particular report or a period of time so they can discuss the data in detail.
-
+<p  
 ## Table of Contents
 
 - [Data Description](#data-description)
